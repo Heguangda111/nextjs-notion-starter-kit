@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId:'Home-d125ddd64f27480194d676a0b25171b8',
+  rootNotionPageId:'2022-homepage-5d775c98a2e943249f640f3748319375',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '人生清单',
-  domain: 'https://www.notion.so/Home-d125ddd64f27480194d676a0b25171b8',
+  domain: 'https://www.notion.so/2022-homepage-5d775c98a2e943249f640f3748319375',
   author: 'dada',
 
   // open graph metadata (optional)
